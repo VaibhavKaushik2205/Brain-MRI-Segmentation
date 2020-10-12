@@ -1,6 +1,6 @@
 # Brain-MRI-Segmentation
 
-This is a tensorflow implementation of U-Net architecture [paper](https://arxiv.org/pdf/1505.04597.pdf) for Brain-MRI-segmentation.
+This is a tensorflow implementation of [U-Net architecture](https://arxiv.org/pdf/1505.04597.pdf) for Brain-MRI-segmentation.
 Dataset is given on kaggle: [brain-mri](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation)
 
 # Examples
